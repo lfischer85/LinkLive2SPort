@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LinkLive2sPort", "LinkLive2sPort.cproj", "{0420DA5B-ED51-4663-8DDD-3EE7EEF4367A}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0420DA5B-ED51-4663-8DDD-3EE7EEF4367A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{0420DA5B-ED51-4663-8DDD-3EE7EEF4367A}.Debug|AVR.Build.0 = Debug|AVR
+		{0420DA5B-ED51-4663-8DDD-3EE7EEF4367A}.Release|AVR.ActiveCfg = Release|AVR
+		{0420DA5B-ED51-4663-8DDD-3EE7EEF4367A}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
